@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahdous&label=Profile%20views&color=0e75b6&style=flat" alt="shahdous" /> </p>
 
-- 📫 How to reach me **shahdous.prohor@unb.ca**
+- 📫 How to reach me **shahdous.prohor16@unb.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
